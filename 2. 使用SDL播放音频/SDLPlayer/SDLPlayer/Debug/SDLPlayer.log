@@ -1,0 +1,15 @@
+﻿  SDLPlayer.cpp
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(39): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(86): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(87): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\sdlplayer\sdlplayer\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(98): warning C4996: 'AVStream::codec': 被声明为已否决
+  c:\users\maomao\source\repos\sdlplayer\sdlplayer\include\libavformat\avformat.h(878): note: 参见“AVStream::codec”的声明
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(68): warning C4996: 'av_register_all': 被声明为已否决
+  c:\users\maomao\source\repos\sdlplayer\sdlplayer\include\libavformat\avformat.h(2043): note: 参见“av_register_all”的声明
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(164): warning C4996: 'avcodec_decode_audio4': 被声明为已否决
+  c:\users\maomao\source\repos\sdlplayer\sdlplayer\include\libavcodec\avcodec.h(4722): note: 参见“avcodec_decode_audio4”的声明
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(185): warning C4996: 'av_free_packet': 被声明为已否决
+  c:\users\maomao\source\repos\sdlplayer\sdlplayer\include\libavcodec\avcodec.h(4416): note: 参见“av_free_packet”的声明
+  SDLPlayer.vcxproj -> C:\Users\maomao\source\repos\SDLPlayer\Debug\SDLPlayer.exe

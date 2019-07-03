@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDLPlayer", "SDLPlayer\SDLPlayer.vcxproj", "{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}.Debug|x64.ActiveCfg = Debug|x64
+		{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}.Debug|x64.Build.0 = Debug|x64
+		{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}.Debug|x86.ActiveCfg = Debug|Win32
+		{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}.Debug|x86.Build.0 = Debug|Win32
+		{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}.Release|x64.ActiveCfg = Release|x64
+		{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}.Release|x64.Build.0 = Release|x64
+		{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}.Release|x86.ActiveCfg = Release|Win32
+		{8C365B2C-AFAE-4BCF-9E38-493C83F25FFD}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC75F850-9B20-4D02-90E5-F2DD037CC0E7}
+	EndGlobalSection
+EndGlobal

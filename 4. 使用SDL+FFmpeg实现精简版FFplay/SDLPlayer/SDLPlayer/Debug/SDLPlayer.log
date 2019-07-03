@@ -1,0 +1,9 @@
+﻿cl : 命令行 warning D9025: 正在重写“/sdl-”(用“/GS-”)
+  SDLPlayer.cpp
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(617): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(751): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(1260): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(1368): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\maomao\source\repos\sdlplayer\sdlplayer\sdlplayer.cpp(1659): warning C4244: “参数”: 从“int64_t”转换到“unsigned int”，可能丢失数据
+  SDLPlayer.vcxproj -> C:\Users\maomao\source\repos\SDLPlayer\Debug\SDLPlayer.exe
